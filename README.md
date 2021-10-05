@@ -6,3 +6,6 @@ For example, the faces of a hypercube can be modeled via templatized 2D matrices
 This project experiments with Swift 4.2+ Generics to model some parameterized types,
 testing ideas using conditional conformance, functions as first-class objects, and
 various protocols.
+
+<img src="./images/screenshot_1.png" alt=""/><br>
+<img src="./images/screenshot_2.png" alt=""/><br>
