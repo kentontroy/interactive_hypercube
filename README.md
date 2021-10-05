@@ -1,4 +1,4 @@
-# CubeGenerics
+# Interactive Hypercube on an iPad
 
 Computational Geometry provides a number of useful abstractions for graphically
 depicting the visual and spatial relationships between data elements.
